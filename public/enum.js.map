@@ -1,1 +1,1 @@
-{"version":3,"file":"enum.js","sourceRoot":"","sources":["../src/enum.ts"],"names":[],"mappings":";AAAA,OAAO;AASP,SAAS,SAAS,CAAC,IAAY,EAAE,KAAiB;IAChD,OAAO,CAAC,GAAG,CAAC,SAAS,IAAI,eAAe,KAAK,EAAE,CAAC,CAAC;AACnD,CAAC;AAED,SAAS,CAAC,IAAI,6BAAiB,CAAC"}
+{"version":3,"file":"enum.js","sourceRoot":"","sources":["../src/enum.ts"],"names":[],"mappings":";AAAA,OAAO;AAaP,MAAM,IAAI,GAAc,QAAQ,CAAC;AAEjC,SAAS,SAAS,CAAC,IAAY,EAAE,KAAgB;IAC/C,OAAO,CAAC,GAAG,CAAC,SAAS,IAAI,eAAe,KAAK,EAAE,CAAC,CAAC;AACnD,CAAC;AAED,SAAS,CAAC,IAAI,6BAAiB,CAAC;AAChC,SAAS,CAAC,IAAI,EAAE,IAAI,CAAC,CAAC"}
